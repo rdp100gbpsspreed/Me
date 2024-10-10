@@ -3,3 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BV1HyQN/download.png" group-title="Kids", Hungama
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
