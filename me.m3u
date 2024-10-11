@@ -66,7 +66,7 @@ https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=51CuLYXrXvgi
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/f1qVvkN/download-7.png" group-title="bdix", Channel I
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=P3AitRR1fMFXukxRe4C6ww&expires=1728883988&user=8333f5cef8e441a0abd75ae8344d39d7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MsqQGd2/download-8.png", group-title="bdix", Colors Hd(Hindi)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MsqQGd2/download-8.png" group-title="bdix", Colors Hd(Hindi)
 https://edge01.iptv.digijadoo.net/live/colors_hd/playlist.m3u8?md5=3ipFsaxDE9uaH9FAJjphjw&expires=1728884015&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GJBnJJ0/download-8.jpg" group-title="bdix", Maasranga 
@@ -114,11 +114,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=1384&deviceMac=00:1A:79:00:86
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/X3k60Mk/download-14.jpg" group-title="tataplay", And Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=141&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BghF2T5/download-17.png" group-title="tataplay", Animal Planet Hindi
+http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Jy2x5pT/download-18.png" group-title="tataplay", National Geography Hindi
+http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
