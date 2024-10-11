@@ -99,10 +99,10 @@ https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=76d7_cHNHi-cYYFsR-D
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0CBDWgv/download-14.png" group-title="bdix", Nagorik Tv
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=vniPKQUID_Nc9nIn42nZvg&expires=1728884392&user=8333f5cef8e441a0abd75ae8344d39d7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="tataplay", Sony আট
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hF1cPK6/images-4.jpg" group-title="tataplay", Sony আট
 http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="tataplay",  Jolsha Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xFQLLVW/download-12.jpg" group-title="tataplay",  Jolsha Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
