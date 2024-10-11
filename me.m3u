@@ -21,3 +21,24 @@ http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=1384&deviceMac=00:1A:79:00:86
 #EXTINF:-1 tvg-logo="Logo Link" group-title="tataplay", Star Zolsha
 http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=1384&deviceMac=00:1A:79:00:86:A7
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
