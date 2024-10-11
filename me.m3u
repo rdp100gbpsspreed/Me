@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Made by Prohor", Channel Name
+m3u8 link
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ssX6dLt/images-1.jpg" group-title="Kids", Hungama
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 
@@ -14,3 +17,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=1384&deviceMac=00:1A:79:00:86
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Kids", Pogo
 http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=1384&deviceMac=00:1A:79:00:86:A7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="tataplay", Star Zolsha
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=1384&deviceMac=00:1A:79:00:86:A7
+
