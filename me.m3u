@@ -30,6 +30,48 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=aEgUxPp2UvLB
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HddQmSn/download-1.jpg" group-title="Tataplay", Star Jolsha
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", Atn News
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=I7x9X5iVipnhiAHuCb5vJQ&expires=1728883637&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", Arirang (japanese tv)
+https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=g2x1WlvpPHHXCiijkMfTZg&expires=1728883699&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", Asian Tv Hd
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=JIkjmv1TjxOSHO8zrxFCAQ&expires=1728883726&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", BBC World
+https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=4ZdfM5cViVEJBwsga42zJw&expires=1728883756&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", বিজয় Tv
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=quAqTrhh0F9fUKRhpeLrqg&expires=1728883814&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", Boishakhi Tv
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=5UBRkGxSasZSoxTrTqaQrw&expires=1728883841&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", Cebeebies Kids
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=8IRB68VVmGZaPfGvcsEcYw&expires=1728883871&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", CGTN(English Channel)
+https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=rHRIFaHxp7_4MzvDJlcfwA&expires=1728883908&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", CNN(English Channel)
+https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=qPg7Uav0cJfS4o31-wUWNw&expires=1728883944&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", Channel 24
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=51CuLYXrXvgij6KmzJifPw&expires=1728883963&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="bdix", Channel I
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=P3AitRR1fMFXukxRe4C6ww&expires=1728883988&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
 
@@ -42,3 +84,38 @@ m3u8 link
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
