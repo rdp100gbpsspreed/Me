@@ -11,3 +11,6 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=9nRUjMEz1IRL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xF5Vhbk/download.jpg" group-title="Kids", Cartoon Network 
 http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=1384&deviceMac=00:1A:79:00:86:A7
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Kids", Pogo
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=1384&deviceMac=00:1A:79:00:86:A7
