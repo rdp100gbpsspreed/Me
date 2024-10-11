@@ -8,3 +8,6 @@ http://46.229.253.27:80/live/7382837374/5003958588/18456.m3u8?token=ShJcU0BbQQNH
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="bdix ", Zee Bangla 
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=9nRUjMEz1IRLW-gaUGgWSQ&expires=1728807786&user=8333f5cef8e441a0abd75ae8344d39d7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xF5Vhbk/download.jpg" group-title="Kids", Cartoon Network 
+http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=1384&deviceMac=00:1A:79:00:86:A7
