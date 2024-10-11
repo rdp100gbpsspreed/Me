@@ -108,11 +108,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=1384&deviceMac=00:1A:79:00:86
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cg3kSvD/download-13.jpg" group-title="bdix", Deepto Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=90232&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ch9cNQ0/download-16.png" group-title="tataplay", And Pictures
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/X3k60Mk/download-14.jpg" group-title="tataplay", And Tv
+http://tv.cloudcdn.me:80/live.ts?channelId=141&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
