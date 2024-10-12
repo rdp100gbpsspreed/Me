@@ -168,7 +168,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=1384&deviceMac=00:1A:79:00:86:
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wYBfQq7/download-20.jpg" group-title="bdix", Colors Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="sports", Tsports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yfGbWfj/download-22.jpg" group-title="sports", Tsports
 http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Movies", Jinn(2023)
@@ -180,7 +180,7 @@ https://pixeldra.in/api/file/vJP8AuJq?download
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Movies", Jawan(2023)
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Jawan%20%282023%29%201080p%20WEBRip/Jawan.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Kids", Disney 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/92NXdH1/images-7.jpg" group-title="Kids", Disney 
 http://119.156.26.155:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
