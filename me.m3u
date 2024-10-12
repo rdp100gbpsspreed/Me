@@ -138,35 +138,35 @@ http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=1384&deviceMac=00:1A:79:00:86
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dmsvr00/download-17.jpg" group-title="tataplay", Spny Sab
 http://176.119.29.61:80/live.ts?channelId=191&uid=1384&deviceMac=00:1A:79:00:86:A7&redir=1
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="tataplay", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ptb6zCs/download-18.jpg" group-title="tataplay", Sony Tv
+http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/41pWn8G/images-5.jpg" group-title="tataplay", Star Bharat
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gZ9C2R6/download-19.png" group-title="tataplay", Star Gold 2
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zxJfjtd/download-20.png" group-title="tataplay", Star Gold
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/p1Lf9dM/download-21.png" group-title="tataplay", Star Movies
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XFZQq0/download-22.png" group-title="tataplay", Star Movies Select 
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZgLH94M/images-6.jpg" group-title="tataplay", Star Plus
+http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pzK8R6N/download-19.jpg" group-title="tataplay", Sonic Hindi
+http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fHL1vHj/download-23.png" group-title="bdix", Channel 9
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wYBfQq7/download-20.jpg" group-title="bdix", Colors Bangla
+http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
