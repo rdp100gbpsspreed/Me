@@ -174,8 +174,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=1384&deviceMac=00:1A:79:00:
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Movies", Jinn(2023)
 https://pixeldra.in/api/file/JWqBtPoR?download
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Movies", Hubba(2024)
+https://pixeldra.in/api/file/vJP8AuJq?download
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
