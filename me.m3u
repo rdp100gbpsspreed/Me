@@ -159,7 +159,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=1384&deviceMac=00:1A:79:00:86
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZgLH94M/images-6.jpg" group-title="tataplay", Star Plus
 http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pzK8R6N/download-19.jpg" group-title="tataplay", Sonic Hindi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pzK8R6N/download-19.jpg" group-title="kids", Sonic Hindi
 http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fHL1vHj/download-23.png" group-title="bdix", Channel 9
@@ -183,8 +183,8 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Jawan%20%282023%29%201080p%20
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/92NXdH1/images-7.jpg" group-title="Kids", Disney 
 http://119.156.26.155:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="kids", Nick Hindi
+http://119.156.26.155:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
