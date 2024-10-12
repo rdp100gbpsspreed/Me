@@ -177,8 +177,8 @@ https://pixeldra.in/api/file/JWqBtPoR?download
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Movies", Hubba(2024)
 https://pixeldra.in/api/file/vJP8AuJq?download
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Movies", Jawan(2023)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Jawan%20%282023%29%201080p%20WEBRip/Jawan.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
