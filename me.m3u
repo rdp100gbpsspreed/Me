@@ -188,8 +188,8 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cg3kSvD/download-13.jpg" group-title="bdix", Deepto Tv
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Movies", Brahmāstra
+http://103.145.232.246/Data/movies/Bollywood/2022/Brahmastra%20Part%20One%20Shiva%20(2022)/Brahmastra%20Part%20One_%20Shiva%20(2022)%20Hindi%201080p%20HDRip%20x264%20AAC%205.1%20ESubs%20[3GB]%20-%20QRips.mp4
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
