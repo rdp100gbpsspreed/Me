@@ -49,7 +49,7 @@ https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=4ZdfM5cViVEJB
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=quAqTrhh0F9fUKRhpeLrqg&expires=1728883814&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/482370f/download-4.png" group-title="bdix", Boishakhi Tv
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=5UBRkGxSasZSoxTrTqaQrw&expires=1728883841&user=8333f5cef8e441a0abd75ae8344d39d7
+http://tv.cloudcdn.me:80/live.ts?channelId=86&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/59QBV74/download-5.png" group-title="bdix", Cebeebies Kids
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=8IRB68VVmGZaPfGvcsEcYw&expires=1728883871&user=8333f5cef8e441a0abd75ae8344d39d7
