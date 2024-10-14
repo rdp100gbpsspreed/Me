@@ -4,7 +4,7 @@
 m3u8 link
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFph06Y/images-3.jpg" group-title="মক্কা শরিফ ", Arabic channel
-https://app.jagobd.com.bd/live-orgin/makkah.stream/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=svEzTKg4STv0VMAh46DzxQ&expires=1729123526&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ssX6dLt/images-1.jpg" group-title="Kids", Hungama
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
