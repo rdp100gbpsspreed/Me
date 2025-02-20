@@ -197,8 +197,8 @@ https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=R6FQMJ7ARWR1BZKpqr3
 #EXTINF:-1 tvg-logo="Logo Link" group-title="movies ", fukrey
 http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Exclusive%20Full%20HD/Hindi/Fukrey%20(2013)%201080p%20DTSHD%20BluRay.mkv
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Kids", Disney
+http://uzesrjy.mexamo.xyz/live/1800529529/0898626807/187052.ts
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
