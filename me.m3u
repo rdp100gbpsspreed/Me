@@ -9,8 +9,8 @@ https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=svEzTKg4STv0VM
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ssX6dLt/images-1.jpg" group-title="Kids", Hungama
 http://opplex.tv:8080/live/2344566677890/358901466856/150480.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ssX6dLt/images-1.jpg" group-title="kids tata play", Hungama 
-http://starshare.live:8080/live/7382837374/5003958588/18456.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ssX6dLt/images-1.jpg" group-title="Kids", Hungama Tataplay
+http://livetvbox.live:8080/live/Brendan123/Brendan123/18456.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MSYFxbK/download-2.jpg" group-title="bdix ", Zee Bangla 
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=Ovu4ylTCI58MrE2qYUQFdw&expires=1729028827&user=8333f5cef8e441a0abd75ae8344d39d7
@@ -197,8 +197,8 @@ https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=R6FQMJ7ARWR1BZKpqr3
 #EXTINF:-1 tvg-logo="Logo Link" group-title="movies ", fukrey
 http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Exclusive%20Full%20HD/Hindi/Fukrey%20(2013)%201080p%20DTSHD%20BluRay.mkv
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Kids", Disney
-http://uzesrjy.mexamo.xyz/live/1800529529/0898626807/187052.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/92NXdH1/images-7.jpg" group-title="Kids", Disney Hd
+http://webhop.xyz:8080/live/1176@kamran/827363628191/19741.ts
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
