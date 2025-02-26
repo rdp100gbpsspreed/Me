@@ -123,8 +123,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=1384&deviceMac=00:1A:79:00:86
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Movies", Toofan
 https://pixeldra.in/api/file/YNL3cUKj?download
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YLpNGWM/download-15.jpg" group-title="tataplay", Sony Max
-http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=1384&deviceMac=00:1A:79:00:86:A7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YLpNGWM/download-15.jpg" group-title="tataplay", Sony Max HD
+http://webhop.xyz:8080/live/1176@kamran/827363628191/151.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GHhHhTd/download-21.jpg" group-title="tataplay", Sony Pal
 http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=1384&deviceMac=00:1A:79:00:86:A7
