@@ -369,7 +369,7 @@ http://119.152.240.15:8001/play/a0bb/index.m3u8
 http://119.152.240.15:8001/play/a028/index.m3u8
 #EXTINF:-1,Box Cinema
 http://119.152.240.15:8001/play/a02a/index.m3u8
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1 group-title="Kids",CARTOON NETWORK
 http://119.152.240.15:8001/play/a0cr/index.m3u8
 #EXTINF:-1,CITY-41
 http://119.152.240.15:8001/play/a00b/index.m3u8
