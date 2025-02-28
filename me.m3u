@@ -369,7 +369,7 @@ http://119.152.240.15:8001/play/a0bb/index.m3u8
 http://119.152.240.15:8001/play/a028/index.m3u8
 #EXTINF:-1,Box Cinema
 http://119.152.240.15:8001/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Kids",CARTOON NETWORK
+#EXTINF:-1 group-title="Kids", CARTOON NETWORK
 http://119.152.240.15:8001/play/a0cr/index.m3u8
 #EXTINF:-1,CITY-41
 http://119.152.240.15:8001/play/a00b/index.m3u8
@@ -401,7 +401,7 @@ http://119.152.240.15:8001/play/a0dp/index.m3u8
 http://119.152.240.15:8001/play/a0ij/index.m3u8
 #EXTINF:-1,DISCOVERY TURBO
 http://119.152.240.15:8001/play/a0ik/index.m3u8
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:-1 group-title="Kids", DISNEY CHANNEL
 http://119.152.240.15:8001/play/a0ct/index.m3u8
 #EXTINF:-1,DISNEY JR
 http://119.152.240.15:8001/play/a02z/index.m3u8
@@ -489,7 +489,7 @@ http://119.152.240.15:8001/play/a0do/index.m3u8
 http://119.152.240.15:8001/play/a0i2/index.m3u8
 #EXTINF:-1,NEWS ONE
 http://119.152.240.15:8001/play/a012/index.m3u8
-#EXTINF:-1,NICK
+#EXTINF:-1 group-title="Kids",NICK
 http://119.152.240.15:8001/play/a0cu/index.m3u8
 #EXTINF:-1,NICK HD
 http://119.152.240.15:8001/play/a0br/index.m3u8
