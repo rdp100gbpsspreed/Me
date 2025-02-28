@@ -12,8 +12,8 @@ http://opplex.tv:8080/live/2344566677890/358901466856/150480.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ssX6dLt/images-1.jpg" group-title="Kids", Hungama Tataplay
 http://livetvbox.live:8080/live/Brendan123/Brendan123/18456.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MSYFxbK/download-2.jpg" group-title="Bangla ", Zee Bangla 
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=Ovu4ylTCI58MrE2qYUQFdw&expires=1729028827&user=8333f5cef8e441a0abd75ae8344d39d7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MSYFxbK/download-2.jpg" group-title="Bangla Natok ", Zee Bangla HD
+http://xtv.ooo:8080/live/danyear12/am809100/245893.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xF5Vhbk/download.jpg" group-title="Kids", Cartoon Network 
 http://xtv.ooo:8080/live/danyear12/am809100/150478.ts
@@ -21,16 +21,16 @@ http://xtv.ooo:8080/live/danyear12/am809100/150478.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5NJHC/download-3.jpg" group-title="Kids", Pogo
 http://uzesrjy.mexamo.xyz/live/1800529529/0898626807/400159481.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HddQmSn/download-1.jpg" group-title="India", Star Jolsha
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=1384&deviceMac=00:1A:79:00:86:A7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HddQmSn/download-1.jpg" group-title="Bangla Natok", Star Jolsha HD
+http://xtv.ooo:8080/live/danyear12/am809100/245898.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MSYFxbK/download-2.jpg" group-title="India", Zee Bangla 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MSYFxbK/download-2.jpg" group-title="Bangla Natok", Zee Bangla 
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YjX4XbL/download-2.png" group-title="Bangla", Atn Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=clumo6M3Syd9alACwe0XcA&expires=1729123606&user=8333f5cef8e441a0abd75ae8344d39d7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HddQmSn/download-1.jpg" group-title="India", Star Jolsha Hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HddQmSn/download-1.jpg" group-title="Bangla Natok", Star Jolsha 
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sWB20Cv/images.png" group-title="Bangla", Atn News
@@ -99,10 +99,10 @@ https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=YpxuJgAa_dS0Hjhfn3O
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0CBDWgv/download-14.png" group-title="Bangla", Nagorik Tv
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=j2L5ebtyj-zMeycDocHMfg&expires=1729139567&user=8333f5cef8e441a0abd75ae8344d39d7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hF1cPK6/images-4.jpg" group-title="India", Sony আট
-http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=1384&deviceMac=00:1A:79:00:86:A7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hF1cPK6/images-4.jpg" group-title="Bangla Natok", Sony আট HD
+http://xtv.ooo:8080/live/danyear12/am809100/245989.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xFQLLVW/download-12.jpg" group-title="India",  Jolsha Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xFQLLVW/download-12.jpg" group-title="Bangla Natok",  Jolsha Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=1384&deviceMac=00:1A:79:00:86:A7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cg3kSvD/download-13.jpg" group-title="Bangla", Deepto Tv
