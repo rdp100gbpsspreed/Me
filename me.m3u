@@ -159,8 +159,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=1384&deviceMac=00:1A:79:00:86
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZgLH94M/images-6.jpg" group-title="India", Star Plus
 http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pzK8R6N/download-19.jpg" group-title="kids", Sonic Hindi
-http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=1384&deviceMac=00:1A:79:00:86:A7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pzK8R6N/download-19.jpg" group-title="kids", Sonic Bangla
+http://xtv.ooo:8080/live/danyear12/am809100/34011.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fHL1vHj/download-23.png" group-title="Bangla", Channel 9
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=1384&deviceMac=00:1A:79:00:86:A7
