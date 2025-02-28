@@ -403,7 +403,7 @@ http://119.152.240.15:8001/play/a0ij/index.m3u8
 http://119.152.240.15:8001/play/a0ik/index.m3u8
 #EXTINF:-1 group-title="Kids", DISNEY CHANNEL
 http://119.152.240.15:8001/play/a0ct/index.m3u8
-#EXTINF:-1,DISNEY JR
+#EXTINF:-1 group-title="Kids",DISNEY JR
 http://119.152.240.15:8001/play/a02z/index.m3u8
 #EXTINF:-1,Discover Pakistan
 http://119.152.240.15:8001/play/a02u/index.m3u8
@@ -435,7 +435,7 @@ http://119.152.240.15:8001/play/a02r/index.m3u8
 http://119.152.240.15:8001/play/a02q/index.m3u8
 #EXTINF:-1,HUM TV
 http://119.152.240.15:8001/play/a01b/index.m3u8
-#EXTINF:-1,HUNGAMA
+#EXTINF:-1 group-title="Kids", HUNGAMA
 http://119.152.240.15:8001/play/a0cs/index.m3u8
 #EXTINF:-1,Investigation Discovery
 http://119.152.240.15:8001/play/a0ke/index.m3u8
@@ -491,9 +491,9 @@ http://119.152.240.15:8001/play/a0i2/index.m3u8
 http://119.152.240.15:8001/play/a012/index.m3u8
 #EXTINF:-1 group-title="Kids",NICK
 http://119.152.240.15:8001/play/a0cu/index.m3u8
-#EXTINF:-1,NICK HD
+#EXTINF:-1 group-title="Kids", NICK HD
 http://119.152.240.15:8001/play/a0br/index.m3u8
-#EXTINF:-1,NICK JR
+#EXTINF:-1 group-title="Kids", NICK JR
 http://119.152.240.15:8001/play/a0k7/index.m3u8
 #EXTINF:-1,NOOR TV
 http://119.152.240.15:8001/play/a00n/index.m3u8
@@ -501,7 +501,7 @@ http://119.152.240.15:8001/play/a00n/index.m3u8
 http://119.152.240.15:8001/play/a025/index.m3u8
 #EXTINF:-1,PIX HD
 http://119.152.240.15:8001/play/a0jk/index.m3u8
-#EXTINF:-1,POGO
+#EXTINF:-1 group-title="Kids", POGO
 http://119.152.240.15:8001/play/a0dn/index.m3u8
 #EXTINF:-1,PTC CHAK DE
 http://119.152.240.15:8001/play/a02c/index.m3u8
@@ -537,7 +537,7 @@ http://119.152.240.15:8001/play/a03d/index.m3u8
 http://119.152.240.15:8001/play/a023/index.m3u8
 #EXTINF:-1,SIX HD
 http://119.152.240.15:8001/play/a0aw/index.m3u8
-#EXTINF:-1,SONIC
+#EXTINF:-1 group-title="Kids", SONIC
 http://119.152.240.15:8001/play/a0cx/index.m3u8
 #EXTINF:-1,SONY BBC EARTH HD
 http://119.152.240.15:8001/play/a0bm/index.m3u8
